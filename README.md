@@ -1,0 +1,1 @@
+This package is a super vanilla wrapper on [mtg-font](https://atmospherejs.com/mtg/font) showing the simple usage.
